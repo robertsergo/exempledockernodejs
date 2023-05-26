@@ -1,0 +1,15 @@
+{
+  "name": "exempledockernodejs",
+  "version": "1.0.0",
+  "description": "exemple de docker et node js",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
